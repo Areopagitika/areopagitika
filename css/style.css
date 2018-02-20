@@ -1,0 +1,9 @@
+body {
+    background: green;
+}
+.p-text {
+    margin: 15px auto;
+    width: 480px;
+    font-size: 24px;
+    color: #fff;
+}
